@@ -8,7 +8,7 @@
     <br />
     <a href="https://github.com/lubomfim/work-plin">Challenge</a>
     ·
-    <a href="www.linkedin.com/in/lubomfim">Contact</a>
+    <a href="https://www.linkedin.com/in/lubomfim">Contact</a>
   </p>
 </p>
 
