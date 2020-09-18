@@ -80,6 +80,6 @@ Images available in `./img` path<br>
 
 Initialize your project with this template in your github as a public repository<br>
 Capture a screenshot, gif or video and share your result in Linkedin<br>
-Send me a feedback in <a href="www.linkedin.com/in/lubomfim">Linkedin</a>!<br>
+Send me a feedback in <a href="https://www.linkedin.com/in/lubomfim">Linkedin</a>!<br>
 
 Designed and created by <a href="https://github.com/lubomfim">Lucas</a> :)
