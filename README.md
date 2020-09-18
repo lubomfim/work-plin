@@ -20,7 +20,7 @@ This project was made for begginers, just like me!
 # Challenge
 
 Seu desafio será construir uma página sobre um site de locação de co-work online. <br><br>
-Your challenge is to build a landing page about a website that online co-work lease.
+Your challenge is to build a landing page for a coworking space
 
 # Techs:
 
@@ -41,7 +41,7 @@ CSS
 
 # Requirements:
 
-- Your page should get it looking as close to the design as possible<br>
+- Your page should look as close as possible to the visual design.<br>
 - Your page should be responsive<br>
   <br>
 
