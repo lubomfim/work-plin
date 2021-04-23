@@ -1,0 +1,15 @@
+.main-title {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 72px;
+    margin-left: 108px;
+    margin-top: 61px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.main-title .color {
+    color: #6C63FF;;
+}
+
+
