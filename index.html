@@ -11,6 +11,7 @@
   <link rel="stylesheet" href="css/components/main-title.css">
   <link rel="stylesheet" href="css/components/nav-items.css">
   <link rel="stylesheet" href="css/components/main.css">
+  <link rel="stylesheet" href="css/components/main-form.css">
   <title>Work plin</title>
 </head>
 
@@ -18,16 +19,35 @@
   <header class="main-header">
     <h1 class="main-title">Work <span class="color">plin</span></h1>
     <nav>
-        <a class="nav-items" href="#">About</a>
-        <a class="nav-items" href="#">Places</a>
-        <a class="nav-items -right" href="#">Contact</a>
-      </nav>
+      <a class="nav-items" href="#">About</a>
+      <a class="nav-items" href="#">Places</a>
+      <a class="nav-items -right" href="#">Contact</a>
+    </nav>
   </header>
 
   <section class="main">
-    <img class="main-image" src="/assets/img/illustration.png" alt="Main Image">
-    <h2 class="main-title -second"><span class="color">Everything</span> in <p>one click.</p></h2>
+    <div class="intro">
+      <img class="main-image" src="/assets/img/illustration.png" alt="Main Image">
+      <h2 class="main-title -second"><span class="color">Everything</span> in<p> one click.</p>
+      </h2>
+    </div>
   </section>
+
+  <form class="main-form">
+    <legend class="main-title -second -noPd">Find your <span class="color">plin</span>!</legend>
+    <div class="alignment">
+    <div class="mgInput">
+      <input type="text" class="main-title -form" id="how-many" placeholder="How many people?">
+      <input type="text" class="main-title -form" id="how-long" placeholder="For how long?">
+      <input type="email" class="main-title -form" id="email" placeholder="Your best e-mail!">
+    </div>
+    <p class="main-title -form -card" >Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
+      standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a
+      type specimen book.</p>
+    </div>
+      <button>Submit</button>
+  </form>
+
 </body>
 
 </html>
