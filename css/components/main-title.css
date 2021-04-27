@@ -4,17 +4,53 @@
     font-size: 48px;
     line-height: 72px;
     margin-left: 108px;
-    margin-top: 61px;
+    margin-top: 40px;
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
 .main-title.-second {
     text-shadow: none;
     text-align: center;
+    padding-top: 160px;
+}
+
+.main-title.-second.-noPd {
+    margin: 0;
+    padding: 0;
+    margin-top: 200px;
+}
+
+.main-title.-form {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    text-shadow: none;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 30px;
+    margin-top: 0;
+}
+
+.main-title.-form.-card {
+    display: flex;
+    padding: 32px 28px 45px 38px;
+    width: 532px;
+    height: 316px;
+    border: 1px solid #000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin-top: 120px;
+}
+
+
+.main-title.-form::-moz-placeholder {
+    color: #000;
+    opacity: 1;
 }
 
 .main-title .color {
-    color: #6C63FF;;
+    color: #6C63FF;
+    ;
 }
-
-
