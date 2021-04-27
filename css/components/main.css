@@ -3,6 +3,12 @@
 }
 
 .main-image {
-    margin-left: 108px;
-    margin-top: 210px;
+  margin-top: 215px;
+  margin-left: 108px;
+  margin-right: 120px;
+}
+
+.intro {
+  display: flex;
+  align-items: center;
 }
