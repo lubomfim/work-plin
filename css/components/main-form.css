@@ -1,0 +1,23 @@
+.alignment{
+    display: flex;
+    justify-content: center;
+}
+
+
+#how-many, #how-long, #email{
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: column;
+    width: 502px;
+    height: 70px;
+    border: 3px solid #6C63FF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+    margin-bottom: 48px;
+    margin-left: 176px;
+}
+
+.mgInput {
+    margin-top: 120px;
+}
+
