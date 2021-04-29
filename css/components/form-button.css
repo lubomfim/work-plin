@@ -1,0 +1,17 @@
+.btn-form {
+    width: 502px;
+    height: 70px;
+    background-color: #000;
+    border-radius: 15px;
+    color: #6C63FF;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 580px;
+    margin-top: 110px;
+    margin-bottom: 308px;
+}
