@@ -30,10 +30,13 @@
     padding-bottom: 16px;
     padding-left: 30px;
     margin-top: 0;
+    margin-left: 206px;
+    margin-right: 54px;
 }
 
 .main-title.-form.-card {
     display: flex;
+    text-align: center      ;
     padding: 32px 28px 45px 38px;
     width: 532px;
     height: 316px;
@@ -42,6 +45,8 @@
     border-radius: 5px;
     box-sizing: border-box;
     margin-top: 120px;
+    margin-right: 146px;
+    margin-left: 0;
 }
 
 
