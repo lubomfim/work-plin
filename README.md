@@ -29,24 +29,25 @@ CSS
 
 # Getting start:
 
-1 - Use this template or download this repository with the starter code<br>
-2 - Read the instructions in readme.md<br>
-3 - Start coding!<br>
-4 - Share your results with the community :)<br>
-<br>
 1 - Use esse template ou baixe esse repositório com o código inicial<br>
 2 - Leia as instruções no readme.md<br>
 3 - Comece a codar!<br>
 4 - Compartilhe seu resultado com a comunidade :)<br>
+<br>
+
+1 - Use this template or download this repository with the starter code<br>
+2 - Read the instructions in readme.md<br>
+3 - Start coding!<br>
+4 - Share your results with the community :)<br>
 
 # Requirements:
 
-- Your page should look as close as possible to the visual design.<br>
-- Your page should be responsive<br>
-  <br>
-
 - Sua página deve se parecer o mais próximo possível do design<br>
 - Sua página deve ser responsiva<br>
+  <br>
+
+- Your page should look as close as possible to the visual design.<br>
+- Your page should be responsive<br>
 
 <img src="design/desktop.png" width="380">
 
